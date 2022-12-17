@@ -1,2 +1,2 @@
 # Comcast-Telecom-Consumer-Complaints
-a project of Simplilearn to apply what is learned in the "Data Science with R Programming" course.
+a project of Simplilearn to apply what we learned in the "Data Science with R Programming" course.
